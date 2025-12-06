@@ -3,7 +3,8 @@
   <li>💻Future Full-Stack Developer.</li>
   <li>🔭Currently delving into JavaScript, React, Next .js, Node.js.</li>
   <li>🔥 My goal is to work as a developer and create products that thousands of people use.</li>
-  <li>📫 How to contact me: mazun.fullstack@gmail.com</li>
+  <li>📫 How to contact me: <a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a>
+</li>
 </ul>
 🧰 # MY STACK # 
 <p align="left">
