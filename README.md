@@ -1,10 +1,11 @@
-👋 Hi, I'm Volodymyr #
-💻Future Full-Stack Developer.
-🔭Currently delving into JavaScript, React, Next .js, Node.js.
-🔥 My goal is to work as a developer and create products that thousands of people use
-📫 How to contact me: mazun.fullstack@gmail.com
-
+<ul>
+  <li>👋 Hi, I'm Volodymyr #</li>
+  <li>💻Future Full-Stack Developer.</li>
+  <li>🔭Currently delving into JavaScript, React, Next .js, Node.js.</li>
+  <li>🔥 My goal is to work as a developer and create products that thousands of people use.</li>
+  <li>📫 How to contact me: mazun.fullstack@gmail.com</li>
+</ul>
 ## 🧰 My stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,postgres,html,css,sass,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,nodejs,express,mongodb,github,vscode" />
 </p>
