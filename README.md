@@ -13,7 +13,7 @@
 📊 # GITHUB STATS #
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" 
-    alt="GitHub stats" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" 
+    alt="GitHub activity graph" 
   />
 </p>
