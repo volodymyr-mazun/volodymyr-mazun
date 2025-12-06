@@ -9,11 +9,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,nodejs,express,mongodb,github,vscode" />
 </p>
-
-📊 # GITHUB STATS #
-<p align="left">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" 
-    alt="GitHub activity graph" 
-  />
-</p>
