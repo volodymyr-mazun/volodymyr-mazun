@@ -6,8 +6,8 @@
   <li>
     📫 How to reach me:
     <ul>
-      <li>Email:<a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a></li>
-      <li>LinkedIn<a href="https://www.linkedin.com/in/volodymyr-mazun">linkedin.com/in/volodymyr-mazun</a></li>
+      <li>Email: <a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/volodymyr-mazun">linkedin.com/in/volodymyr-mazun</a></li>
     </ul>
   </li>
 </ul>
