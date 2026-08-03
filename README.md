@@ -16,35 +16,43 @@
 
 <h2>📫 How to reach me</h2>
 
-<p>
-  <a href="mailto:mazun.fullstack@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Open_Profile-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contact me by email"
-      width="260"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:mazun.fullstack@gmail.com">
+        <img
+          src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="Contact me by email"
+          width="260"
+        />
+      </a>
+    </td>
+  </tr>
 
-<p>
-  <a href="https://www.linkedin.com/in/volodymyr-mazun">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Open_Profile-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"
-      alt="View my LinkedIn profile"
-      width="260"
-    />
-  </a>
-</p>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/volodymyr-mazun">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"
+          alt="View my LinkedIn profile"
+          width="260"
+        />
+      </a>
+    </td>
+  </tr>
 
-<p>
-  <a href="https://t.me/masun_vova">
-    <img
-      src="https://img.shields.io/badge/Telegram-Open_Profile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Contact me on Telegram"
-      width="260"
-    />
-  </a>
-</p>
+  <tr>
+    <td>
+      <a href="https://t.me/masun_vova">
+        <img
+          src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+          alt="Contact me on Telegram"
+          width="260"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="left">
   <a href="mailto:mazun.fullstack@gmail.com">
