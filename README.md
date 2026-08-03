@@ -17,7 +17,7 @@
 <p align="left">
   <a href="mailto:mazun.fullstack@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a><br>
+  </a>
   <a href="https://www.linkedin.com/in/volodymyr-mazun">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
