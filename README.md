@@ -24,7 +24,7 @@
 
   <a href="https://www.linkedin.com/in/volodymyr-mazun">
     <img
-      src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"
       alt="View my LinkedIn profile"
     />
   </a>
