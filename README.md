@@ -16,10 +16,15 @@
 
 <p align="left">
   <a href="mailto:mazun.fullstack@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
   </a>
+
   <a href="https://www.linkedin.com/in/volodymyr-mazun">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my LinkedIn profile" />
+  </a>
+
+  <a href="https://t.me/masun_vova">
+    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram" />
   </a>
 </p>
 
