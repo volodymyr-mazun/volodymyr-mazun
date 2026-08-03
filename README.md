@@ -5,7 +5,10 @@
   <li>🔥 My goal is to work as a developer and build products used by thousands of people.</li>
   <li>
     📫 How to reach me:
-    <a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a>
+    <ul>
+      <li>Email:<a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a></li>
+      <li>LinkedIn<a href="https://www.linkedin.com/in/volodymyr-mazun">linkedin.com/in/volodymyr-mazun</a></li>
+    </ul>
   </li>
 </ul>
 
