@@ -3,9 +3,14 @@
   <li>💻 I'm an aspiring Full-Stack Developer.</li>
   <li>🔭 I'm currently learning JavaScript, React, Next.js, and Node.js.</li>
   <li>🔥 My goal is to work as a developer and build products used by thousands of people.</li>
-  <li>How to reach me:</li>
+</ul>
+
+<h3>📫 How to reach me</h3>
+
+<ul>
   <li>📧 Email: <a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/volodymyr-mazun">linkedin.com/in/volodymyr-mazun</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/volodymyr-mazun">linkedin.com/in/volodymyr-mazun</a>
+  </li>
 </ul>
 
 <h2>🧰 My Stack</h2>
