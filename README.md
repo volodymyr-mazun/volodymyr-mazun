@@ -17,17 +17,17 @@
 <p align="left">
   <a href="mailto:mazun.fullstack@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  </a><br><br>
   <a href="https://www.linkedin.com/in/volodymyr-mazun">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-<ul>
+<!-- <ul>
   <li>📧 Email: <a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/volodymyr-mazun">linkedin.com/in/volodymyr-mazun</a>
   </li>
-</ul>
+</ul> -->
 
 <h2>🧰 My Stack</h2>
 
