@@ -1,9 +1,6 @@
-<img
-  src="https://komarev.com/ghpvc/?username=volodymyr-mazun&style=flat-square"
-  alt="Profile views"
-/>
-
 <h2>About me</h2>
+
+<imgт src="https://komarev.com/ghpvc/?username=volodymyr-mazun&style=flat-square" alt="Profile views" />
 
 <ul>
   <li>👋 Hi, I'm Volodymyr.</li>
@@ -16,24 +13,13 @@
 
 <p align="left">
   <a href="https://www.mazun.fullstack@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contact me by email"
-    />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
   </a>
-
   <a href="https://www.linkedin.com/in/volodymyr-mazun">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"
-      alt="View my LinkedIn profile"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white" alt="View my LinkedIn profile" />
   </a>
-
   <a href="https://t.me/masun_vova">
-    <img
-      src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Contact me on Telegram"
-    />
+    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram" />
   </a>
 </p>
 
