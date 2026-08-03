@@ -1,10 +1,7 @@
-<p align="center">
-  <img
-    src="BANNER_IMAGE_URL"
-    alt="Volodymyr Masun — Full-Stack Developer"
-    width="100%"
-  />
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=volodymyr-mazun&style=flat-square"
+  alt="Profile views"
+/>
 
 <h2>About me</h2>
 
