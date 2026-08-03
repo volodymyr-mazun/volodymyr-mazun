@@ -14,7 +14,39 @@
 
 <h3>📫 How to reach me</h3>
 
-<p align="left">
+<h2>📫 How to reach me</h2>
+
+<p>
+  <a href="mailto:mazun.fullstack@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Open_Profile-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact me by email"
+      width="260"
+    />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/volodymyr-mazun">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Open_Profile-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"
+      alt="View my LinkedIn profile"
+      width="260"
+    />
+  </a>
+</p>
+
+<p>
+  <a href="https://t.me/masun_vova">
+    <img
+      src="https://img.shields.io/badge/Telegram-Open_Profile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Contact me on Telegram"
+      width="260"
+    />
+  </a>
+</p>
+
+<!-- <p align="left">
   <a href="mailto:mazun.fullstack@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -35,7 +67,7 @@
       alt="Contact me on Telegram"
     />
   </a>
-</p>
+</p> -->
 
 <!-- <ul>
   <li>📧 Email: <a href="mailto:mazun.fullstack@gmail.com">mazun.fullstack@gmail.com</a></li>
