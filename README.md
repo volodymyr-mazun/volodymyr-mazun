@@ -1,6 +1,6 @@
 <h2>About me</h2>
 
-<imgт src="https://komarev.com/ghpvc/?username=volodymyr-mazun&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=volodymyr-mazun&style=flat-square" alt="Profile views" />
 
 <ul>
   <li>👋 Hi, I'm Volodymyr.</li>
