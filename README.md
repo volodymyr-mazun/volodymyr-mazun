@@ -15,7 +15,7 @@
 <h3>📫 How to reach me</h3>
 
 <p align="left">
-  <a href="mailto:mazun.fullstack@gmail.com">
+  <a href="https://www.mazun.fullstack@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Contact me by email"
