@@ -1,17 +1,9 @@
-<p align="left">
-  <a href="mailto:mazun.fullstack@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/volodymyr-mazun">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn"
-    />
-  </a>
+<p align="center">
+  <img
+    src="BANNER_IMAGE_URL"
+    alt="Volodymyr Masun — Full-Stack Developer"
+    width="100%"
+  />
 </p>
 
 <h2>About me</h2>
