@@ -1,3 +1,5 @@
+<h2>About me</h2>
+
 <ul>
   <li>👋 Hi, I'm Volodymyr.</li>
   <li>💻 I'm an aspiring Full-Stack Developer.</li>
